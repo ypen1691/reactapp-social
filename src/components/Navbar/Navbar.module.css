@@ -13,6 +13,6 @@
     text-decoration: none;
       color: #333;
   }
-  .item.active{
+  .item a.active{
     font-weight: 600;
   }

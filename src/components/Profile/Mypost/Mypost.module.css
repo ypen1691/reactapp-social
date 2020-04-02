@@ -1,0 +1,13 @@
+.form_submit{
+    display: flex;
+    flex-direction: column;
+}
+.block_post{
+    padding: 10px;
+}
+.item{
+    text-transform: uppercase;
+}
+.item img{
+    max-width: 60px;
+}

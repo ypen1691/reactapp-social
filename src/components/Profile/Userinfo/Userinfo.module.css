@@ -1,0 +1,15 @@
+.photo{
+    max-width: 50px;
+}
+.photo img{
+    max-width: 100%;
+}
+.info_user{
+    padding: 10px;
+}
+.banner{
+    height: 250px;
+    width: 100%;
+    background: url('https://cdn.cjr.org/wp-content/uploads/2019/07/AdobeStock_100000042-e1563305717660-686x371.jpeg');
+    background-size: cover;
+}
